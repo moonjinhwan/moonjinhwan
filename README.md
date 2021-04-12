@@ -10,15 +10,7 @@
 
 #### 🛠 Technical Stack
 
-https://img.shields.io/badge/-SpringBoot-green 
-
-https://img.shields.io/badge/-Mysql-blue 
-
-https://img.shields.io/badge/-Redis-red 
-
-https://img.shields.io/badge/-Java-green 
-
-https://img.shields.io/badge/-Node.js-orange
+![issue badge](https://img.shields.io/badge/-SpringBoot-green) ![issue badge](https://img.shields.io/badge/-Redis-red)  ![issue badge](https://img.shields.io/badge/-Mysql-blue ) ![issue badge](https://img.shields.io/badge/-Java-green) 
 
 ------
 
