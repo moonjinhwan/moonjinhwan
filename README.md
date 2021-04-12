@@ -14,10 +14,8 @@
 
 ------
 
-#### 👀 **Curriculum Vitae** : https://www.notion.so/ddoddo/DokyeongKwon-798e330964c54ac1a62a60e39a417693
-
 #### 💎 **BLOG** : https://moons-memo.tistory.com/
 
-#### 📞 **kakao** : moonjinh123@naver.com
+#### 📞 **kakao** : moonjinh
 
 #### ✉️ **Email** : [itdeveloper.moon@gmail.com] / [moonjinh123@naver.com]
